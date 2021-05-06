@@ -17,7 +17,7 @@ const karly = {
                         dogLover: "Chihuahuas",
                         visit: "Magical towns",
                         love: "Cook and make desserts",
-                        player: "CoD"
+                        player: "CoD mobile"
                       },
 ```
 
