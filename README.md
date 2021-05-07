@@ -12,7 +12,6 @@ const karly = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
   tools: [React, Firebase, Figma, Visual Studio Code, Git, GitHub, Trello],
-  passions: [chihuahuas dog lover(6), visit magical towns, I love to cook and make desserts, CoD player],
   passions: {
                         dogLover: "Chihuahuas",
                         visit: "Magical towns",
